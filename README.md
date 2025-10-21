@@ -66,3 +66,5 @@ Added more details for developers.
 ## 🔹 İlgili
 - Zama FHEVM Public Repo: https://github.com/zama-ai/fhevm
 - Zama Devnet RPC: `https://devnet.zama.ai`
+
+# English language added.
