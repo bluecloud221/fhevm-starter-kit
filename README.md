@@ -68,3 +68,4 @@ Added more details for developers.
 - Zama Devnet RPC: `https://devnet.zama.ai`
 
 # English language added.
+# Turkish language added.
