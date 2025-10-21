@@ -27,3 +27,5 @@ const config: HardhatUserConfig = {
 export default config;
 
 # Example testnet key
+
+# Example testnet key2 added
