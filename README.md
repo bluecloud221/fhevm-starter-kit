@@ -59,6 +59,7 @@ Not: Bu örnek FHEVM davranışını **temsili** olarak gösterir. Gerçek FHE i
 ## 🔹 Amaç
 Bu repo ile şunları gösterebilirsiniz:
 - Zama FHEVM geliştirme ortamına aşinalık
+Added more details for developers.
 - CI/CD optimizasyonu ve güvenlik pratikleri
 - Zama ekosistemi için eğitim odaklı katkılar
 
